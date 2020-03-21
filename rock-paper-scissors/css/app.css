@@ -1,0 +1,21 @@
+body {
+	text-align:center;
+	padding: 100px 50px;
+	background-image:url(../images/stonebrick_background.jpg);
+	font-family: 'Beth Ellen';font-size: 22px;
+	color:white;
+}
+
+body a {
+	text-decoration:none;
+	color:white;
+	font-size:50px;
+	padding:20px;
+}
+
+body a:hover {
+	color:red;
+	
+}
+
+
